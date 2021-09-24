@@ -1,0 +1,15 @@
+.login-formulario{
+    padding-top: 25rem;
+    margin-left: 28rem;
+
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+
+.banner{
+    margin-right: 25rem;
+}
+
+form pre{
+    padding-left: 10rem;
+}
